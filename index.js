@@ -44,4 +44,4 @@ client.on('message', message => {
     else if(command === 'cor') {client.commands.get('cor').execute(message, args);}
 });
 
-client.login('ODA0NTc2ODI5NDIzMDkxNzcy.YBOWkA.7B43kD7vZYTim6-lXVj9X1D41Io');
+client.login('ODA0NTc2ODI5NDIzMDkxNzcy.YBOWkA.8dR0eOUVo03HrAcqYg7U2vEEknc');
