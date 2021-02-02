@@ -11,5 +11,15 @@
   "dependencies": {
     "discord.js": "^12.5.1",
     "ms": "^2.1.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalacorte/i-am-feeling-empty.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/dalacorte/i-am-feeling-empty/issues"
+  },
+  "homepage": "https://github.com/dalacorte/i-am-feeling-empty#readme"
 }
