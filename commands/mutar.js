@@ -22,7 +22,7 @@ module.exports = {
 
             memberTarget.roles.remove(mainRole.id);
             memberTarget.roles.add(muteRole.id);
-            message.channel.send(`<@${memberTarget.user.id}> foi mutado por ${ms(ms(args[1]))}`);
+            message.channel.send(`<@${memberTarget.user.id}> foi mutado por ${ms(ms(args[1]))}.`);
             
             
 
