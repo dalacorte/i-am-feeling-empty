@@ -36,6 +36,12 @@ client.on('message', message => {
     else if(command === 'kick') {client.commands.get('kick').execute(message, args);} 
     
     else if(command === 'ban') {client.commands.get('ban').execute(message, args);}
+
+    else if(command === 'mutar') {client.commands.get('mutar').execute(message, args);}
+
+    else if(command === 'desmutar') {client.commands.get('desmutar').execute(message, args);}
+
+    else if(command === 'cor') {client.commands.get('cor').execute(message, args);}
 });
 
-client.login('ODA0NTc2ODI5NDIzMDkxNzcy.YBOWkA.kIHOb5M58hcPyVwhsvPwNhbO2Y4');
+client.login('ODA0NTc2ODI5NDIzMDkxNzcy.YBOWkA.7B43kD7vZYTim6-lXVj9X1D41Io');
